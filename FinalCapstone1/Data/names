@@ -1,0 +1,30 @@
+,Abbreviation,Meaning
+0,Rk,Rank
+1,Tm,Team
+2,2018-19,Salary for 2018-19 season
+3,Name,Name
+4,Pos,Position
+5,G,Games Played
+6,GS,Games Started
+7,FG,Field Goals Attempted
+8,FG%,Field Goal Percentage
+9,3P,3 Pointers Attempted per Game
+10,3P%,3 Point Percentage
+11,eFG%,Effective Field Goal Percentage
+12,FT%,Free Throw Percentage
+13,ORB,Offensive Rebounds
+14,TRB,Total Rebounds
+15,AST,Assists Per Game
+16,STL,Steals per Game
+17,BLK,Blocks Per Game
+18,PS/G,Points per Game
+19,TOV,Turnovers per Game
+20,Age,Age
+21,WS,Win Shares
+22,PER,Player Efficiency Rating
+23,MP,Minutes Played in the season
+24,TRB%,Total Rebound Percentage
+25,AST%,Assist Percentage
+26,TOV%,Turnover Percentage
+27,OWS,Offensive Win Shares
+28,DWS,Defensive Win Shares
